@@ -39,7 +39,7 @@ public class Test {
 	        }
 	        selectSort(tower);
 	        for(int i=0;i<n;i++) {
-	        	
+	        	System.out.println("hhh,ÄãºÃ");
 	        }
 	    }
 	}

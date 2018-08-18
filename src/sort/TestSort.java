@@ -1,5 +1,5 @@
 package sort;
-
+//排序集合
 public class TestSort {
 	/*
 	 * 选择排序：给定一组记录，找到最小值，与第一个位置值交换，
