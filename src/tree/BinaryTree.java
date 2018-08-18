@@ -95,7 +95,7 @@ public class BinaryTree {
 				q.add(n.right);
 		}
 	}
-	//已知先序遍历和中序遍历，求二叉树
+	//已知先序遍历和中序遍历，求二叉树,准备测试
 	public static void main(String args[]){
 		BinaryTree biTree=new BinaryTree();
 		int[] data={2,8,7,4,9,3,1,6,7,5};
